@@ -1,0 +1,1 @@
+you have to run only npm start command to start the project
